@@ -10,21 +10,23 @@ $(document).ready(function () {
   //simpan data mahasiswa
   $("#post-guestbook-box").on("submit", function (e) {
     e.preventDefault();
+
     $.ajax({
       url: "simpan.php",
       type: "post",
       data: $(this).serialize(),
       beforeSend: function () {
-        $("#btn-ucapan").text("Sedang mengirim pesan");
+        $(this).text("Sedang mengirim pesan");
       },
       success: function (data) {
         // alert(data);
         loadData();
-        $("#btn-ucapan").text("Terima kasih atas doa dan ucapannya");
+        $(this).text("Terima kasih atas doa dan ucapannya");
+
+        setTimeout(() => {
+          $(this).text("Kirim Ucapan");
+        }, 2000);
       },
-      // complete: function() {
-      //     $('#btn-ucapan').text('Kirim Ucapan')
-      // }
     });
   });
 });

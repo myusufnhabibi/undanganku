@@ -41,6 +41,7 @@
                                                         background-color: #9b8852 !important;
                                                         border: 1px solid #fff !important;
                                                         border-radius: 8px !important;
+                                                        font-size: 12px !important;
                                                     }
 
                                                     .rvspKu {
@@ -97,7 +98,7 @@
                                                                         <b> BRI </b>
                                                                         <div class="span-btn">
                                                                             <span class="valueSpan1">003801096859503</span>
-                                                                            <button class="btn btn-secondary btn-sm copy-btn float-right" id="btnCopy" type="button">
+                                                                            <button class="btn btn-secondary btn-sm copy-btn float-right mb-1" id="btnCopy" type="button">
                                                                                 <span class="fa fa-copy"> Copy</span>
                                                                             </button>
                                                                         </div>
@@ -109,7 +110,7 @@
                                                                         <b> Mandiri </b>
                                                                         <div class="span-btn">
                                                                             <span class="valueSpan">003801096859102</span>
-                                                                            <button class="btn btn-secondary btn-sm copy-btn float-right" id="btnCopy2" type="button">
+                                                                            <button class="btn btn-secondary btn-sm copy-btn float-right mb-1" id="btnCopy2" type="button">
                                                                                 <span class="fa fa-copy"> Copy</span>
                                                                             </button>
                                                                         </div>
