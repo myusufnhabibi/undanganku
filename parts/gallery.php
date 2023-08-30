@@ -11,30 +11,30 @@
                                 <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
                                     <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
                                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">
-                                            <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8480b35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjczODcsInVybCI6Imh0dHBzOlwvXC9kZ3NpZ24uc3BhY2VcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9GSkJfMTkzMy1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiODQ4MGIzNSJ9" href="dgsign.space/wp-content/uploads/2023/08/FJB_1933-scaled.jpg">
+                                            <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8480b35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjczODcsInVybCI6Imh0dHBzOlwvXC9kZ3NpZ24uc3BhY2VcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9GSkJfMTkzMy1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiODQ4MGIzNSJ9" href="gallery/DLSA0272.jpg">
                                                 <figure class="swiper-slide-inner">
-                                                    <img decoding="async" class="swiper-slide-image" src="dgsign.space/wp-content/uploads/elementor/thumbs/FJB_1933-scaled-qasrurudmydev6iezrzkxn8jpilg1l4p80p0uskh80.jpg" alt="" />
+                                                    <img decoding="async" class="swiper-slide-image" src="gallery/DLSA0272.jpg" alt="" />
                                                 </figure>
                                             </a>
                                         </div>
                                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">
-                                            <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8480b35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjczODYsInVybCI6Imh0dHBzOlwvXC9kZ3NpZ24uc3BhY2VcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9GSkJfMTk1MC1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiODQ4MGIzNSJ9" href="dgsign.space/wp-content/uploads/2023/08/FJB_1950-scaled.jpg">
+                                            <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8480b35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjczODYsInVybCI6Imh0dHBzOlwvXC9kZ3NpZ24uc3BhY2VcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9GSkJfMTk1MC1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiODQ4MGIzNSJ9" href="gallery/DLSA0261.jpg">
                                                 <figure class="swiper-slide-inner">
-                                                    <img decoding="async" class="swiper-slide-image" src="dgsign.space/wp-content/uploads/elementor/thumbs/FJB_1950-scaled-qasrujdtxg1tyoupd6bxt7ded1r54b746utnjax0s0.jpg" alt="" />
+                                                    <img decoding="async" class="swiper-slide-image" src="gallery/DLSA0261.jpg" alt="" />
                                                 </figure>
                                             </a>
                                         </div>
                                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">
-                                            <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8480b35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjczODUsInVybCI6Imh0dHBzOlwvXC9kZ3NpZ24uc3BhY2VcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9GSkJfMTk1OC1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiODQ4MGIzNSJ9" href="dgsign.space/wp-content/uploads/2023/08/FJB_1958-scaled.jpg">
+                                            <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8480b35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjczODUsInVybCI6Imh0dHBzOlwvXC9kZ3NpZ24uc3BhY2VcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9GSkJfMTk1OC1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiODQ4MGIzNSJ9" href="gallery/DLSA0254.jpg">
                                                 <figure class="swiper-slide-inner">
-                                                    <img decoding="async" class="swiper-slide-image" src="dgsign.space/wp-content/uploads/elementor/thumbs/FJB_1958-scaled-qasrubv4errjdt5ml32x999plys7eqd9htlrp3865s.jpg" alt="" />
+                                                    <img decoding="async" class="swiper-slide-image" src="gallery/DLSA0254.jpg" alt="" />
                                                 </figure>
                                             </a>
                                         </div>
                                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4">
-                                            <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8480b35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjczODQsInVybCI6Imh0dHBzOlwvXC9kZ3NpZ24uc3BhY2VcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9GSkJfMjA1Ny1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiODQ4MGIzNSJ9" href="dgsign.space/wp-content/uploads/2023/08/FJB_2057-scaled.jpg">
+                                            <a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8480b35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjczODQsInVybCI6Imh0dHBzOlwvXC9kZ3NpZ24uc3BhY2VcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzA4XC9GSkJfMjA1Ny1zY2FsZWQuanBnIiwic2xpZGVzaG93IjoiODQ4MGIzNSJ9" href="gallery/DLSA0107.jpg">
                                                 <figure class="swiper-slide-inner">
-                                                    <img decoding="async" class="swiper-slide-image" src="dgsign.space/wp-content/uploads/elementor/thumbs/FJB_2057-scaled-qasru4cew3h8sxgjsztwpb60uvt9p5jessdvuvjbjk.jpg" alt="" />
+                                                    <img decoding="async" class="swiper-slide-image" src="gallery/DLSA0107.jpg" alt="" />
                                                 </figure>
                                             </a>
                                         </div>
