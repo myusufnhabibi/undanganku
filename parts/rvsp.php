@@ -74,6 +74,10 @@
                                                         border-radius: 0.95rem !important;
                                                         border-radius: 15px !important;
                                                     }
+
+                                                    select .form-control {
+                                                        color: grey !important
+                                                    }
                                                 </style>
                                                 <div class="elementor-element elementor-element-96022ff elementor-invisible elementor-widget elementor-widget-text-editor rvspKu" data-id="96022ff" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
