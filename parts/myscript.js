@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  //load data mahasiswa saat aplikasi dijalankan
+  $('#loading').hide();
   loadData();
 
   //button batal
@@ -16,14 +16,15 @@ $(document).ready(function () {
       type: "post",
       data: $(this).serialize(),
       beforeSend: function () {
+        $('#loading').show();
         $(this).text("Sedang mengirim pesan");
       },
       success: function (data) {
-        // alert(data);
         loadData();
         $(this).text("Terima kasih atas doa dan ucapannya");
 
         setTimeout(() => {
+          $('#loading').hide();
           $(this).text("Kirim Ucapan");
         }, 2000);
       },

@@ -41,7 +41,7 @@
                         <div class="elementor-element elementor-element-7a116e8 dce_masking-none elementor-widget elementor-widget-image" data-id="7a116e8" data-element_type="widget" data-widget_type="image.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-image">
-                                    <img decoding="async" width="5666" height="6776" src="https://habib-lia.klbindonesia.com/foto/logo-hitam.png" class="attachment-full size-full wp-image-27322" alt="" loading="lazy" srcset="https://habib-lia.klbindonesia.com/foto/logo-hitam.png 5666w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 251w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 856w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 768w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 1284w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 1713w" sizes="(max-width: 5666px) 100vw, 5666px" />
+                                    <img decoding="async" width="5666" height="6776" src="gallery/logo-hitam.png" class="attachment-full size-full wp-image-27322" alt="" loading="lazy" srcset="gallery/logo-hitam.png 5666w, gallery/logo-hitam.png 251w, gallery/logo-hitam.png 856w, gallery/logo-hitam.png 768w, gallery/logo-hitam.png 1284w, gallery/logo-hitam.png 1713w" sizes="(max-width: 5666px) 100vw, 5666px" />
                                 </div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <div class="elementor-icon-box-wrapper">
                                     <div class="elementor-icon-box-content">
                                         <h3 class="elementor-icon-box-title">
-                                            <a href="#rsvp">RSVP </a>
+                                            <a href="#rsvp">Doa </a>
                                         </h3>
                                     </div>
                                 </div>

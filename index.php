@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
 
-<!-- Mirrored from denny-bella.dgsign.id/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Aug 2023 06:15:27 GMT -->
+<!-- Mirrored from Habib-Lia.dgsign.id/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Aug 2023 06:15:27 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -14,18 +14,15 @@
     </style>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Resepsi Pernikahan Denny & Bella</title>
-    <meta name="description" content="Jumat, 18 Agustus 2023" />
-    <link rel="canonical" href="https://dgsign.space/denny-bella/" />
+    <title>Resepsi Pernikahan Habib & Lia</title>
+    <meta name="description" content="Jumat, 9 September 2023" />
     <meta property="og:locale" content="id_ID" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Resepsi Pernikahan Denny &amp; Bella" />
-    <meta property="og:description" content="Jumat, 18 Agustus 2023" />
-    <meta property="og:url" content="https://dgsign.space/denny-bella/" />
+    <meta property="og:title" content="Resepsi Pernikahan Habib &amp; Lia" />
+    <meta property="og:description" content="Jumat, 9 September 2023" />
     <meta property="og:site_name" content="Digital Invitation, Reservation and Registration" />
-    <meta property="article:published_time" content="2023-08-11T18:04:35+00:00" />
-    <meta property="article:modified_time" content="2023-08-13T07:20:00+00:00" />
-    <meta property="og:image" content="https://dgsign.space/wp-content/uploads/2023/08/054A6737-1-scaled-e1691879024164.jpg" />
+    <meta property="article:published_time" content="2023-09-11T18:04:35+00:00" />
+    <meta property="article:modified_time" content="2023-09-13T07:20:00+00:00" />
     <meta property="og:image:width" content="420" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/jpeg" />
@@ -66,6 +63,6 @@
     <?php include('parts/script.php') ?>
 </body>
 
-<!-- Mirrored from denny-bella.dgsign.id/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Aug 2023 06:15:50 GMT -->
+<!-- Mirrored from Habib-Lia.dgsign.id/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Aug 2023 06:15:50 GMT -->
 
 </html>

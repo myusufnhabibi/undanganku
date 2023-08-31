@@ -16,7 +16,7 @@
                         <div class="elementor-element elementor-element-2c0844c dce_masking-none elementor-invisible elementor-widget elementor-widget-image" data-id="2c0844c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-image">
-                                    <img decoding="async" width="800" height="957" src="https://habib-lia.klbindonesia.com/foto/logo-hitam.png" class="attachment-large size-large wp-image-27322" alt="" loading="lazy" srcset="https://habib-lia.klbindonesia.com/foto/logo-hitam.png 856w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 251w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 768w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 1284w, https://habib-lia.klbindonesia.com/foto/logo-hitam.png 1713w" sizes="(max-width: 800px) 100vw, 800px" />
+                                    <img decoding="async" width="800" height="957" src="gallery/logo-hitam.png" class="attachment-large size-large wp-image-27322" alt="" loading="lazy" srcset="gallery/logo-hitam.png 856w, gallery/logo-hitam.png 251w, gallery/logo-hitam.png 768w, gallery/logo-hitam.png 1284w, gallery/logo-hitam.png 1713w" sizes="(max-width: 800px) 100vw, 800px" />
                                 </div>
                             </div>
                         </div>

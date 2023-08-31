@@ -80,6 +80,14 @@
                                                             <div id="hidden-avatar" style="display:none;">
                                                                 <img decoding="async" src="dgsign.space/wp-content/uploads/2023/05/plane.png" title="plane" alt="plane" loading="lazy" />
                                                             </div>
+                                                            <div class="text-center" id="loading">
+                                                                <img style="width: 30px;" class="mt-2" src="loading.gif" alt="">
+                                                            </div>
+                                                            <style>
+                                                                .guestbook-list {
+                                                                    margin-top: 20px;
+                                                                }
+                                                            </style>
                                                             <div class="guestbook-list" id="dataDoa">
 
                                                             </div>
@@ -122,7 +130,7 @@
     <div class="elementor-background-overlay"></div>
     <div class="elementor-container elementor-column-gap-no">
         <div class="elementor-row">
-            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d2f60ef" data-id="d2f60ef" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:27382,&quot;url&quot;:&quot;https:\/\/dgsign.space\/wp-content\/uploads\/2023\/08\/054A6432-scaled.jpg&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d2f60ef" data-id="d2f60ef" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:27382,&quot;url&quot;:&quot;gallery/DLSA0210.jpg&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
                 <div class="elementor-column-wrap elementor-element-populated">
                     <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-458c519 animated-slow elementor-blockquote--skin-border elementor-blockquote--button-color-official elementor-invisible elementor-widget elementor-widget-blockquote" data-id="458c519" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="blockquote.default">

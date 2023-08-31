@@ -79,6 +79,11 @@
                                                     select .form-control {
                                                         color: grey !important
                                                     }
+
+                                                    .elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated>.elementor-widget-wrap {
+                                                        padding-right: 30px;
+                                                        padding-left: 30px;
+                                                    }
                                                 </style>
                                                 <div class="elementor-element elementor-element-96022ff elementor-invisible elementor-widget elementor-widget-text-editor rvspKu" data-id="96022ff" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
@@ -90,7 +95,7 @@
                                                     <br>
                                                     <div class="elementor-widget-container ">
                                                         <h6 class="elementor-text-editor elementor-size-default kado1" id="desc">
-                                                            Transfer langsung ke rekening di bawah ini: <br>
+                                                            Transfer langsung ke rekening di bawah : <br>
 
                                                             <div class="row mt-2">
                                                                 <div class="col mb-2">

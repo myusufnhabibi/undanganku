@@ -1829,7 +1829,7 @@
 
     .elementor-27288 .elementor-element.elementor-element-9acb142:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap,
     .elementor-27288 .elementor-element.elementor-element-9acb142>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-        background-image: url("https://habib-lia.klbindonesia.com/foto/header.jpg");
+        background-image: url("gallery/header.jpg");
         background-position: center center;
         background-size: cover;
     }

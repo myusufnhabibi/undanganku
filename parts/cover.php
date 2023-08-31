@@ -2,14 +2,14 @@
     <div class="elementor-background-overlay"></div>
     <div class="elementor-container elementor-column-gap-default">
         <div class="elementor-row">
-            <div data-dce-background-overlay-color="#00000070" data-dce-background-image-url="https://habib-lia.klbindonesia.com/foto/header.jpg" class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9acb142" data-id="9acb142" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div data-dce-background-overlay-color="#00000070" data-dce-background-image-url="gallery/header.jpg" class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9acb142" data-id="9acb142" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-column-wrap elementor-element-populated">
                     <div class="elementor-background-overlay"></div>
                     <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-c64ee64 dce_masking-none elementor-invisible elementor-widget elementor-widget-image" data-id="c64ee64" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}" data-widget_type="image.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-image">
-                                    <img decoding="async" width="800" height="957" src="https://habib-lia.klbindonesia.com/foto/logo-putih.png" class="attachment-large size-large wp-image-27323" alt="" loading="lazy" srcset="https://habib-lia.klbindonesia.com/foto/logo-putih.png 856w, https://habib-lia.klbindonesia.com/foto/logo-putih.png 251w, https://habib-lia.klbindonesia.com/foto/logo-putih.png 768w, https://habib-lia.klbindonesia.com/foto/logo-putih.png 1284w, https://habib-lia.klbindonesia.com/foto/logo-putih.png 1713w" sizes="(max-width: 800px) 100vw, 800px" />
+                                    <img decoding="async" width="800" height="957" src="gallery/logo-putih.png" class="attachment-large size-large wp-image-27323" alt="" loading="lazy" srcset="gallery/logo-putih.png 856w, gallery/logo-putih.png 251w, gallery/logo-putih.png 768w, gallery/logo-putih.png 1284w, gallery/logo-putih.png 1713w" sizes="(max-width: 800px) 100vw, 800px" />
                                 </div>
                             </div>
                         </div>

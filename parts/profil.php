@@ -19,7 +19,7 @@
                         <div class="elementor-element elementor-element-2b9c782 dce_masking-none elementor-invisible elementor-widget elementor-widget-image" data-id="2b9c782" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-image">
-                                    <img decoding="async" width="1664" height="2560" src="https://habib-lia.klbindonesia.com/foto/pria.jpg" class="attachment-full size-full wp-image-26111" alt="" loading="lazy" srcset="https://habib-lia.klbindonesia.com/foto/pria.jpg 1664w, https://habib-lia.klbindonesia.com/foto/pria.jpg 195w, https://habib-lia.klbindonesia.com/foto/pria.jpg 666w, https://habib-lia.klbindonesia.com/foto/pria.jpg 768w, https://habib-lia.klbindonesia.com/foto/pria.jpg 998w, https://habib-lia.klbindonesia.com/foto/pria.jpg 1331w" sizes="(max-width: 1664px) 100vw, 1664px" />
+                                    <img decoding="async" width="1664" height="2560" src="gallery/pria.jpg" class="attachment-full size-full wp-image-26111" alt="" loading="lazy" srcset="gallery/pria.jpg 1664w, gallery/pria.jpg 195w, gallery/pria.jpg 666w, gallery/pria.jpg 768w, gallery/pria.jpg 998w, gallery/pria.jpg 1331w" sizes="(max-width: 1664px) 100vw, 1664px" />
                                 </div>
                             </div>
                         </div>
@@ -76,7 +76,7 @@
                         <div class="elementor-element elementor-element-0276d55 dce_masking-none elementor-invisible elementor-widget elementor-widget-image" data-id="0276d55" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-image">
-                                    <img decoding="async" width="1440" height="2374" src="https://habib-lia.klbindonesia.com/foto/wanita.jpg" class="attachment-full size-full wp-image-26410" alt="" loading="lazy" srcset="https://habib-lia.klbindonesia.com/foto/wanita.jpg 1440w, hhttps://habib-lia.klbindonesia.com/foto/wanita.jpg 1242w" sizes="(max-width: 1440px) 100vw, 1440px" />
+                                    <img decoding="async" width="1440" height="2374" src="gallery/wanita.jpg" class="attachment-full size-full wp-image-26410" alt="" loading="lazy" srcset="gallery/wanita.jpg 1440w, hhttps://habib-lia.klbindonesia.com/foto/wanita.jpg 1242w" sizes="(max-width: 1440px) 100vw, 1440px" />
                                 </div>
                             </div>
                         </div>
