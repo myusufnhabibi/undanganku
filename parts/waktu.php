@@ -41,8 +41,9 @@
                             <div class="elementor-widget-container">
                                 <div class="wpkoi-elements-countdown-wrapper">
                                     <div class="wpkoi-elements-countdown-container wpkoi-elements-countdown-label-block ">
-                                        <ul id="wpkoi-elements-countdown-0f4b387" class="wpkoi-elements-countdown-items" data-date="Sep 17 2023 13:00:00">
-                                            <li class="wpkoi-elements-countdown-item">
+                                        <?php $type = substr($_GET['kepada'], -1); ?>
+                                        <ul id="wpkoi-elements-countdown-0f4b387" class="wpkoi-elements-countdown-items" data-date="<?= $type == '.' ? "Sep 17 2023 13:00:00" : "Sep 09 2023 13:00:00" ?>">
+                                            <li class=" wpkoi-elements-countdown-item">
                                                 <div class="wpkoi-elements-countdown-days">
                                                     <span data-days class="wpkoi-elements-countdown-digits">00</span>
                                                     <span class="wpkoi-elements-countdown-label">Hari</span>

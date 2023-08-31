@@ -13,24 +13,16 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="elementor-element elementor-element-010f42d elementor-widget elementor-widget-spacer" data-id="010f42d" data-element_type="widget" data-widget_type="spacer.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-spacer">
-                                    <div class="elementor-spacer-inner"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-010f42d elementor-widget elementor-widget-spacer" data-id="010f42d" data-element_type="widget" data-widget_type="spacer.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-spacer">
-                                    <div class="elementor-spacer-inner"></div>
-                                </div>
-                            </div>
-                        </div>
                         <?php $type = substr($_GET['kepada'], -1);
 
                         if ($type == ".") { ?>
-
+                            <div class="elementor-element elementor-element-010f42d elementor-widget elementor-widget-spacer" data-id="010f42d" data-element_type="widget" data-widget_type="spacer.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-spacer">
+                                        <div class="elementor-spacer-inner"></div>
+                                    </div>
+                                </div>
+                            </div>
                             <section class="elementor-section elementor-inner-section elementor-element elementor-element-183c664 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="183c664" data-element_type="section">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-row">
@@ -139,7 +131,27 @@
                             </section>
 
                         <?php } else { ?>
-
+                            <div class="elementor-element elementor-element-010f42d elementor-widget elementor-widget-spacer" data-id="010f42d" data-element_type="widget" data-widget_type="spacer.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-spacer">
+                                        <div class="elementor-spacer-inner"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-010f42d elementor-widget elementor-widget-spacer" data-id="010f42d" data-element_type="widget" data-widget_type="spacer.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-spacer">
+                                        <div class="elementor-spacer-inner"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-010f42d elementor-widget elementor-widget-spacer" data-id="010f42d" data-element_type="widget" data-widget_type="spacer.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-spacer">
+                                        <div class="elementor-spacer-inner"></div>
+                                    </div>
+                                </div>
+                            </div>
                             <section class="elementor-section elementor-inner-section elementor-element elementor-element-183c664 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="183c664" data-element_type="section">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-row">

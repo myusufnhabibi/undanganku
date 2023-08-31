@@ -18,7 +18,7 @@
                                 <div class="elementor-row">
                                     <div data-dce-background-color="#242424" class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6a8f1bb" data-id="6a8f1bb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                         <div class="elementor-column-wrap elementor-element-populated">
-                                            <div class="elementor-widget-wrap">
+                                            <div class="elementor-widget-wrap" id="wrap-khusus">
                                                 <div class="elementor-element elementor-element-be12a8b elementor-widget elementor-widget-spacer" data-id="be12a8b" data-element_type="widget" data-widget_type="spacer.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-spacer">
@@ -80,7 +80,7 @@
                                                         color: grey !important
                                                     }
 
-                                                    .elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated>.elementor-widget-wrap {
+                                                    #wrap-khusus {
                                                         padding-right: 30px;
                                                         padding-left: 30px;
                                                     }
@@ -125,7 +125,7 @@
                                                             </div>
                                                         </h6>
                                                         <h6 class="elementor-text-editor elementor-size-default kado2" id="desc">
-                                                            Kirim kado ke alamat yang tertera di bawah ini: <br>
+                                                            Kirim kado ke alamat yang tertera di bawah <br>
 
                                                             <div class="row mt-2">
                                                                 <div class="col kado2" id="desc">
